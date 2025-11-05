@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand Section */}
           <div className="space-y-4">
-            <h3 className="text-lg font-bold text-primary">ModernUI</h3>
+            <h3 className="text-lg font-bold text-primary">Alobha Tech</h3>
             <p className="text-sm text-muted-foreground">
               Building beautiful, responsive experiences with modern web technologies.
             </p>
@@ -65,7 +65,7 @@ const Footer = () => {
             <h4 className="font-semibold mb-4">Connect</h4>
             <div className="flex gap-4">
               <a
-                href="#"
+                href="https://github.com/Code-with-Alpha"
                 className="text-muted-foreground hover:text-primary transition-colors"
                 aria-label="GitHub"
               >
@@ -79,14 +79,14 @@ const Footer = () => {
                 <Twitter size={20} />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/gaurav-srivastava-95808a2a1/"
                 className="text-muted-foreground hover:text-primary transition-colors"
                 aria-label="LinkedIn"
               >
                 <Linkedin size={20} />
               </a>
               <a
-                href="mailto:contact@modernui.com"
+                href="mailto:gaurav.sri.0707@gmail.com"
                 className="text-muted-foreground hover:text-primary transition-colors"
                 aria-label="Email"
               >

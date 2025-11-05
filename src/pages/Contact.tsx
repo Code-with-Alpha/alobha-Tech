@@ -101,7 +101,7 @@ const Contact = () => {
                 value={formData.name}
                 onChange={(value) => setFormData({ ...formData, name: value })}
                 error={errors.name}
-                placeholder="John Doe"
+                placeholder="Gaurav Srivastava"
                 required
               />
 
@@ -112,7 +112,7 @@ const Contact = () => {
                 value={formData.email}
                 onChange={(value) => setFormData({ ...formData, email: value })}
                 error={errors.email}
-                placeholder="john@example.com"
+                placeholder="Gaurav.sri.0707@gmail.com"
                 required
               />
 
@@ -141,15 +141,15 @@ const Contact = () => {
           >
             <div className="space-y-2">
               <h3 className="font-semibold">Email</h3>
-              <p className="text-sm text-muted-foreground">contact@modernui.com</p>
+              <p className="text-sm text-muted-foreground">Gaurav.sri.0707@gmail.com</p>
             </div>
             <div className="space-y-2">
               <h3 className="font-semibold">Phone</h3>
-              <p className="text-sm text-muted-foreground">+1 (555) 123-4567</p>
+              <p className="text-sm text-muted-foreground">+1 123456789</p>
             </div>
             <div className="space-y-2">
               <h3 className="font-semibold">Location</h3>
-              <p className="text-sm text-muted-foreground">San Francisco, CA</p>
+              <p className="text-sm text-muted-foreground">Dehradun, UK</p>
             </div>
           </motion.div>
         </motion.div>
