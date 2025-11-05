@@ -41,10 +41,10 @@ const Home = () => {
             className="max-w-3xl mx-auto text-center"
           >
             <h1 className="text-4xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              Build Something Amazing
+              Transforming Ideas into Powerful Solutions
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              A modern, responsive landing UI built with React, featuring best practices in accessibility, performance, and design.
+              Empower your business with bespoke software solutions. Expert development, innovative design. Contact us for a transformative digital experience.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button size="lg" asChild>

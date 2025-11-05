@@ -98,7 +98,7 @@ const Footer = () => {
 
         <div className="mt-8 pt-8 border-t">
           <p className="text-center text-sm text-muted-foreground">
-            © {currentYear} ModernUI. All rights reserved.
+            © {currentYear} GauravSrivastava. All rights reserved.
           </p>
         </div>
       </div>
